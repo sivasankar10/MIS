@@ -1,0 +1,15 @@
+D:\folders\MIS\Electricity_bill\Electricity_bill\bin\Debug\bill.mdf
+D:\folders\MIS\Electricity_bill\Electricity_bill\bin\Debug\bill_log.ldf
+D:\folders\MIS\Electricity_bill\Electricity_bill\bin\Debug\Electricity_bill.exe.config
+D:\folders\MIS\Electricity_bill\Electricity_bill\bin\Debug\Electricity_bill.exe
+D:\folders\MIS\Electricity_bill\Electricity_bill\bin\Debug\Electricity_bill.pdb
+D:\folders\MIS\Electricity_bill\Electricity_bill\bin\Debug\Electricity_bill.xml
+D:\folders\MIS\Electricity_bill\Electricity_bill\obj\Debug\Electricity_bill.vbproj.AssemblyReference.cache
+D:\folders\MIS\Electricity_bill\Electricity_bill\obj\Debug\Electricity_bill.vbproj.SuggestedBindingRedirects.cache
+D:\folders\MIS\Electricity_bill\Electricity_bill\obj\Debug\Electricity_bill.Form1.resources
+D:\folders\MIS\Electricity_bill\Electricity_bill\obj\Debug\Electricity_bill.Resources.resources
+D:\folders\MIS\Electricity_bill\Electricity_bill\obj\Debug\Electricity_bill.vbproj.GenerateResource.cache
+D:\folders\MIS\Electricity_bill\Electricity_bill\obj\Debug\Electricity_bill.vbproj.CoreCompileInputs.cache
+D:\folders\MIS\Electricity_bill\Electricity_bill\obj\Debug\Electricity_bill.exe
+D:\folders\MIS\Electricity_bill\Electricity_bill\obj\Debug\Electricity_bill.xml
+D:\folders\MIS\Electricity_bill\Electricity_bill\obj\Debug\Electricity_bill.pdb
