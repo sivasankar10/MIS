@@ -1,0 +1,15 @@
+D:\folders\MIS\Employee_PsyRoll\Employee_PsyRoll\bin\Debug\Payroll.mdf
+D:\folders\MIS\Employee_PsyRoll\Employee_PsyRoll\bin\Debug\Payroll_log.ldf
+D:\folders\MIS\Employee_PsyRoll\Employee_PsyRoll\bin\Debug\Employee_PsyRoll.exe.config
+D:\folders\MIS\Employee_PsyRoll\Employee_PsyRoll\bin\Debug\Employee_PsyRoll.exe
+D:\folders\MIS\Employee_PsyRoll\Employee_PsyRoll\bin\Debug\Employee_PsyRoll.pdb
+D:\folders\MIS\Employee_PsyRoll\Employee_PsyRoll\bin\Debug\Employee_PsyRoll.xml
+D:\folders\MIS\Employee_PsyRoll\Employee_PsyRoll\obj\Debug\Employee_PsyRoll.vbproj.AssemblyReference.cache
+D:\folders\MIS\Employee_PsyRoll\Employee_PsyRoll\obj\Debug\Employee_PsyRoll.vbproj.SuggestedBindingRedirects.cache
+D:\folders\MIS\Employee_PsyRoll\Employee_PsyRoll\obj\Debug\Employee_PsyRoll.Form1.resources
+D:\folders\MIS\Employee_PsyRoll\Employee_PsyRoll\obj\Debug\Employee_PsyRoll.Resources.resources
+D:\folders\MIS\Employee_PsyRoll\Employee_PsyRoll\obj\Debug\Employee_PsyRoll.vbproj.GenerateResource.cache
+D:\folders\MIS\Employee_PsyRoll\Employee_PsyRoll\obj\Debug\Employee_PsyRoll.vbproj.CoreCompileInputs.cache
+D:\folders\MIS\Employee_PsyRoll\Employee_PsyRoll\obj\Debug\Employee_PsyRoll.exe
+D:\folders\MIS\Employee_PsyRoll\Employee_PsyRoll\obj\Debug\Employee_PsyRoll.xml
+D:\folders\MIS\Employee_PsyRoll\Employee_PsyRoll\obj\Debug\Employee_PsyRoll.pdb
