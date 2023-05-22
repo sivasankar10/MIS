@@ -1,0 +1,16 @@
+D:\folders\MIS\web_login\web_login\bin\Debug\web_login.exe.config
+D:\folders\MIS\web_login\web_login\bin\Debug\web_login.exe
+D:\folders\MIS\web_login\web_login\bin\Debug\web_login.pdb
+D:\folders\MIS\web_login\web_login\bin\Debug\web_login.xml
+D:\folders\MIS\web_login\web_login\obj\Debug\web_login.vbproj.AssemblyReference.cache
+D:\folders\MIS\web_login\web_login\obj\Debug\web_login.vbproj.SuggestedBindingRedirects.cache
+D:\folders\MIS\web_login\web_login\obj\Debug\web_login.Form1.resources
+D:\folders\MIS\web_login\web_login\obj\Debug\web_login.Form2.resources
+D:\folders\MIS\web_login\web_login\obj\Debug\web_login.Resources.resources
+D:\folders\MIS\web_login\web_login\obj\Debug\web_login.vbproj.GenerateResource.cache
+D:\folders\MIS\web_login\web_login\obj\Debug\web_login.vbproj.CoreCompileInputs.cache
+D:\folders\MIS\web_login\web_login\obj\Debug\web_login.exe
+D:\folders\MIS\web_login\web_login\obj\Debug\web_login.xml
+D:\folders\MIS\web_login\web_login\obj\Debug\web_login.pdb
+D:\folders\MIS\web_login\web_login\bin\Debug\Database1.mdf
+D:\folders\MIS\web_login\web_login\bin\Debug\Database1_log.ldf
